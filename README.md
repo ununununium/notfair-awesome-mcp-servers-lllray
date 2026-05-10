@@ -262,6 +262,7 @@
 | [steipete/Peekaboo](https://github.com/steipete/Peekaboo) | 3,241 | Swift | Peekaboo is a macOS CLI & optional MCP server that enables AI agents t |
 | [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) | 3,211 | Shell | Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor |
 | [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | 3,206 | Python | An MCP server plus a CLI tool that indexes local code into a graph dat |
+| [nowork-studio/toprank](https://github.com/nowork-studio/toprank) | NotFair Google Ads MCP server. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ---
 
